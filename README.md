@@ -1,0 +1,1 @@
+# IOT-based-CNC-Machine-vibration-detector-and-temperature-monitoring-system
